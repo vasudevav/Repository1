@@ -7,6 +7,7 @@ public class Test {
 		Test obj=new Test();
 		System.out.println(obj.x);
 	}
+hi this my first change
 	public static void main(String[] args) {
 		
 		Test e1=new Test();
